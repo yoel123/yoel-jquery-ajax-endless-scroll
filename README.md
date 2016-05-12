@@ -2,7 +2,7 @@ this is a simple jquery endless scroll function.
 <br>
 what it dose is load content into a dom element via ajax call, when the user scroll to a  defined scroll point.
 
-see the example on how it works.<br>
+see the example (index.html) on how it works.<br>
 
 	y_endless_scroll(selector,url,scroll_val,preload_selector,max)
 <br>
