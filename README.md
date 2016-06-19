@@ -14,7 +14,7 @@ lets break the arguments:
 *selector:<br>
 the selector of the dom element that will be populated by the ajax call.<br>
 *url:<br>
-the url of the page the ajax call will call.
+the url of the page the ajax call will call.<br>
 *scroll_val:<br>
 the scroll point that will activate the the ajax call that will load new data.
 <br>
