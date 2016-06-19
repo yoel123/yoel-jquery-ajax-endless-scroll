@@ -9,7 +9,7 @@ see the example (index.html) on how it works.<br>
 
 note:it needs a server to work.
 
-lets breack the arguments:
+lets break the arguments:
 
 *selector:<br>
 the selector of the dom element that will be populated by the ajax call.<br>
